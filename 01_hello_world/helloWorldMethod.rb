@@ -1,7 +1,7 @@
 # Declare a function
-def hello
-  puts "Hello World!"
+def hello(anything)
+  puts anything
 end
 
 # Call the function
-hello
+hello("Hello World!")
