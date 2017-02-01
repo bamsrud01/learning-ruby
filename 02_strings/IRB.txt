@@ -1,0 +1,9 @@
+Intro to IRB
+
+IRB is the interactive ruby shell.
+
+To run, type in the console "irb"
+
+To clear, type Control+L
+
+To exit, type "exit"
