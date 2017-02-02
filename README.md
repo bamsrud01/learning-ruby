@@ -9,6 +9,7 @@ This repo is a collection of files and projects completed while learning Ruby.
 01. Hello World
 02. Strings and IRB
 03. Numbers
+04. Methods
 
 ## Technology
 
