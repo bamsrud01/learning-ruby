@@ -10,6 +10,7 @@ This repo is a collection of files and projects completed while learning Ruby.
 02. Strings and IRB
 03. Numbers
 04. Methods
+05. Arrays and Iterators
 
 ## Technology
 
