@@ -11,6 +11,7 @@ This repo is a collection of files and projects completed while learning Ruby.
 03. Numbers
 04. Methods
 05. Arrays and Iterators
+06. Hashes
 
 ## Technology
 
