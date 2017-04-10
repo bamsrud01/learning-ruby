@@ -15,9 +15,10 @@ This repo is a collection of files and projects completed while learning Ruby.
 
 ## Technology
 
-- Ruby
+- Ruby, Ruby on Rails
 
 ## Author
 
 - Barrett Amsrud
 - January 2017 - Present
+- Materials following 'The Complete Ruby on Rails Developer Course' on Udemy, instructed by Rob Percival and Mashrur Hossain
